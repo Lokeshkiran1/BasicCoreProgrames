@@ -11,7 +11,7 @@ namespace BasicCorePrograme
         static void Main(string[] args)
         {
             Console.WriteLine("welcome to Basic Core Programes\n");
-            Console.WriteLine("1.Flip Coin Problem\n2.Leap Year Identification\n");
+            Console.WriteLine("1.Flip Coin Problem\n2.Leap Year Identification\n3.PowerOfTwoComputation\n");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -21,6 +21,10 @@ namespace BasicCorePrograme
                 case 2:
                     LeapYearIdentification.LeapYear();
                     break;
+                case 3:
+                    PowerOfTwoComputation.ToFindPower();
+                    break;
+
                 default:
                     Console.WriteLine("enteres wrong choice");
                     break;
