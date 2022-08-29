@@ -10,6 +10,22 @@ namespace BasicCorePrograme
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("welcome to Basic Core Programes\n");
+            Console.WriteLine("1.Flip Coin Problem\n2.Leap Year Identification\n");
+            int choice = Convert.ToInt32(Console.ReadLine());
+            switch (choice)
+            {
+                case 1:
+                    FlipCoinComputation.FlipCoin();
+                    break;
+                case 2:
+                    LeapYearIdentification.LeapYear();
+                    break;
+                default:
+                    Console.WriteLine("enteres wrong choice");
+                    break;
+            }
+
         }
     }
 }

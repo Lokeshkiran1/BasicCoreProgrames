@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\csharp\BasicCorePrograme\bin\Debug\BasicCorePrograme.exe.config
+C:\Users\HP\Desktop\csharp\BasicCorePrograme\bin\Debug\BasicCorePrograme.exe
+C:\Users\HP\Desktop\csharp\BasicCorePrograme\bin\Debug\BasicCorePrograme.pdb
+C:\Users\HP\Desktop\csharp\BasicCorePrograme\obj\Debug\BasicCorePrograme.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\csharp\BasicCorePrograme\obj\Debug\BasicCorePrograme.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\csharp\BasicCorePrograme\obj\Debug\BasicCorePrograme.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\csharp\BasicCorePrograme\obj\Debug\BasicCorePrograme.exe
+C:\Users\HP\Desktop\csharp\BasicCorePrograme\obj\Debug\BasicCorePrograme.pdb
