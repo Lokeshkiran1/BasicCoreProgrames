@@ -11,7 +11,7 @@ namespace BasicCorePrograme
         static void Main(string[] args)
         {
             Console.WriteLine("welcome to Basic Core Programes\n");
-            Console.WriteLine("1.Flip Coin Problem\n2.Leap Year Identification\n3.PowerOfTwoComputation\n4.Harmonic Number\n5.PrimeFactors of a given number\n6.Compute Quotient and remainder\n7.Even or odd number\n8.Swapping of two numbers");
+            Console.WriteLine("1.Flip Coin Problem\n2.Leap Year Identification\n3.PowerOfTwoComputation\n4.Harmonic Number\n5.PrimeFactors of a given number\n6.Compute Quotient and remainder\n7.Even or odd number\n8.Swapping of two numbers\n9.Vowel and Consonant ");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -39,6 +39,9 @@ namespace BasicCorePrograme
                     break;
                 case 8:
                     SwappingOfNumbers.swapTwoNumbers();
+                    break;
+                case 9:
+                    VowelsConsonant.VowelsConsonantIdentification();
                     break;
 
                 default:
