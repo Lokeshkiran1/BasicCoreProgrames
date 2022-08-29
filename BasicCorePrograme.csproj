@@ -46,6 +46,7 @@
     <Compile Include="EvenOddComputation.cs" />
     <Compile Include="FlipCoinComputation.cs" />
     <Compile Include="HarmonicNumber.cs" />
+    <Compile Include="LargestOfThreeNumbers.cs" />
     <Compile Include="LeapYearIdentification.cs" />
     <Compile Include="PowerOfTwoComputation.cs" />
     <Compile Include="PrimeFactors.cs" />
