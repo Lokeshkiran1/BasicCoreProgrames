@@ -47,9 +47,11 @@
     <Compile Include="HarmonicNumber.cs" />
     <Compile Include="LeapYearIdentification.cs" />
     <Compile Include="PowerOfTwoComputation.cs" />
+    <Compile Include="PrimeFactors.cs" />
     <Compile Include="PrimeFactorsBruteForce.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuotientAndRemainder.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

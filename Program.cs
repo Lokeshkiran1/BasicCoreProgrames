@@ -11,7 +11,7 @@ namespace BasicCorePrograme
         static void Main(string[] args)
         {
             Console.WriteLine("welcome to Basic Core Programes\n");
-            Console.WriteLine("1.Flip Coin Problem\n2.Leap Year Identification\n3.PowerOfTwoComputation\n4.Harmonic Number\n5.PrimeFactors of a given number");
+            Console.WriteLine("1.Flip Coin Problem\n2.Leap Year Identification\n3.PowerOfTwoComputation\n4.Harmonic Number\n5.PrimeFactors of a given number\n6.Compute Quotient and remainder");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -29,6 +29,10 @@ namespace BasicCorePrograme
                     break;
                 case 5:
                     PrimeFactorsBruteForce.PrimeFactors();
+                    PrimeFactors.primeFactors();
+                    break;
+                case 6:
+                    QuotientAndRemainder.QuotRem();
                     break;
 
                 default:
